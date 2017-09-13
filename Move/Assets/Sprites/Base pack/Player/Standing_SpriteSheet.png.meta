@@ -1,0 +1,927 @@
+fileFormatVersion: 2
+guid: ad872ed9d4b8a3346b7430aea11af47f
+timeCreated: 1502346628
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Standing_SpriteSheet_0
+    21300002: Standing_SpriteSheet_1
+    21300004: Standing_SpriteSheet_2
+    21300006: Standing_SpriteSheet_3
+    21300008: Standing_SpriteSheet_4
+    21300010: Standing_SpriteSheet_5
+    21300012: Standing_SpriteSheet_6
+    21300014: Standing_SpriteSheet_7
+    21300016: Standing_SpriteSheet_8
+    21300018: Standing_SpriteSheet_9
+    21300020: Standing_SpriteSheet_10
+    21300022: Standing_SpriteSheet_11
+    21300024: Standing_SpriteSheet_12
+    21300026: Standing_SpriteSheet_13
+    21300028: Standing_SpriteSheet_14
+    21300030: Standing_SpriteSheet_15
+    21300032: Standing_SpriteSheet_16
+    21300034: Standing_SpriteSheet_17
+    21300036: Standing_SpriteSheet_18
+    21300038: Standing_SpriteSheet_19
+    21300040: Standing_SpriteSheet_20
+    21300042: Standing_SpriteSheet_21
+    21300044: Standing_SpriteSheet_22
+    21300046: Standing_SpriteSheet_23
+    21300048: Standing_SpriteSheet_24
+    21300050: Standing_SpriteSheet_25
+    21300052: Standing_SpriteSheet_26
+    21300054: Standing_SpriteSheet_27
+    21300056: Standing_SpriteSheet_28
+    21300058: Standing_SpriteSheet_29
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4045
+        width: 339
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 4045
+        width: 338
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 4045
+        width: 338
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 4045
+        width: 339
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 4045
+        width: 338
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3254
+        width: 341
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3253
+        width: 342
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 3252
+        width: 343
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 3252
+        width: 343
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 3252
+        width: 343
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2461
+        width: 346
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2461
+        width: 346
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 2461
+        width: 348
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 2461
+        width: 348
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2461
+        width: 347
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1669
+        width: 348
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1669
+        width: 348
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1669
+        width: 348
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 1669
+        width: 348
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1669
+        width: 345
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 876
+        width: 346
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 876
+        width: 345
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 876
+        width: 344
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 876
+        width: 341
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 877
+        width: 341
+        height: 655
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 85
+        width: 341
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 85
+        width: 341
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 85
+        width: 340
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 85
+        width: 338
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Standing_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 85
+        width: 338
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -1267.8469, y: -1633.5}
+      - {x: -1356.0046, y: -1672.9453}
+      - {x: -1383.8439, y: -1768.078}
+      - {x: -1383.8439, y: -2178.7734}
+      - {x: -1351.3647, y: -2287.828}
+      - {x: -1321.2054, y: -2294.789}
+      - {x: -1298.0061, y: -2294.789}
+      - {x: -1256.2472, y: -2285.5078}
+      - {x: -1256.2472, y: -2248.3828}
+      - {x: -1253.9272, y: -2278.5469}
+      - {x: -1246.9674, y: -2294.789}
+      - {x: -1195.9287, y: -2294.789}
+      - {x: -1135.6104, y: -2269.2656}
+      - {x: -1035.8529, y: -2046.5156}
+      - {x: -1035.8529, y: -1677.5859}
+      - {x: -1066.0122, y: -1633.5}
+    - - {x: -771.3799, y: -1633.5}
+      - {x: -771.3799, y: -2241.422}
+      - {x: -694.82184, y: -2294.789}
+      - {x: -690.18195, y: -2294.789}
+      - {x: -643.7832, y: -2283.1875}
+      - {x: -643.7832, y: -2255.3438}
+      - {x: -639.1433, y: -2280.8672}
+      - {x: -627.5436, y: -2294.789}
+      - {x: -548.66565, y: -2294.789}
+      - {x: -430.34875, y: -2111.4844}
+      - {x: -423.38895, y: -2011.7108}
+      - {x: -423.38895, y: -1633.5}
+    - - {x: 158.91585, y: -1633.5}
+      - {x: -140.35634, y: -1633.5}
+      - {x: -158.91585, y: -1693.828}
+      - {x: -158.91585, y: -2153.25}
+      - {x: -100.917366, y: -2294.789}
+      - {x: -52.198635, y: -2294.789}
+      - {x: -45.23882, y: -2290.1484}
+      - {x: -31.31918, y: -2271.586}
+      - {x: -19.719484, y: -2294.789}
+      - {x: 22.039425, y: -2294.789}
+      - {x: 47.55876, y: -2285.5078}
+      - {x: 133.39651, y: -2150.9297}
+      - {x: 189.07506, y: -1951.3828}
+      - {x: 189.07506, y: -1691.5078}
+    - - {x: 789.9394, y: -1633.5}
+      - {x: 592.7445, y: -1633.5}
+      - {x: 469.78772, y: -1661.3438}
+      - {x: 453.54816, y: -1742.5548}
+      - {x: 453.54816, y: -2176.4531}
+      - {x: 479.06747, y: -2294.789}
+      - {x: 639.1433, y: -2294.789}
+      - {x: 669.3025, y: -2285.5078}
+      - {x: 771.3799, y: -2120.7656}
+      - {x: 799.2191, y: -1895.6952}
+      - {x: 799.2191, y: -1645.1016}
+    - - {x: 1402.4033, y: -1661.3438}
+      - {x: 1351.3647, y: -1633.5}
+      - {x: 1237.6876, y: -1633.5}
+      - {x: 1130.9705, y: -1642.7812}
+      - {x: 1066.0122, y: -1791.2812}
+      - {x: 1066.0122, y: -2072.039}
+      - {x: 1079.9318, y: -2099.8828}
+      - {x: 1110.0911, y: -2294.789}
+      - {x: 1277.1266, y: -2294.789}
+      - {x: 1362.9644, y: -2085.961}
+      - {x: 1411.6831, y: -1891.0548}
+      - {x: 1411.6831, y: -1726.3124}
+    - - {x: -1388.4838, y: -1336.5}
+      - {x: -1346.7249, y: -1503.5625}
+      - {x: -1274.8068, y: -1503.5625}
+      - {x: -1258.5671, y: -1489.6406}
+      - {x: -1256.2472, y: -1461.7969}
+      - {x: -1258.5671, y: -1389.8672}
+      - {x: -1260.8871, y: -1389.8672}
+      - {x: -1256.2472, y: -1399.1484}
+      - {x: -1256.2472, y: -1503.5625}
+      - {x: -1142.5702, y: -1503.5625}
+      - {x: -1035.8529, y: -1399.1484}
+      - {x: -1035.8529, y: -839.9531}
+      - {x: -1344.4049, y: -839.9531}
+      - {x: -1388.4838, y: -846.91406}
+    - - {x: -776.0197, y: -839.9531}
+      - {x: -776.0197, y: -1473.3984}
+      - {x: -708.7415, y: -1503.5625}
+      - {x: -685.5421, y: -1503.5625}
+      - {x: -660.02277, y: -1498.9219}
+      - {x: -643.7832, y: -1485}
+      - {x: -648.42303, y: -1389.8672}
+      - {x: -648.42303, y: -1401.4688}
+      - {x: -634.5034, y: -1445.5547}
+      - {x: -641.46326, y: -1475.7188}
+      - {x: -634.5034, y: -1494.2812}
+      - {x: -625.2237, y: -1503.5625}
+      - {x: -497.627, y: -1503.5625}
+      - {x: -423.38895, y: -1213.5234}
+      - {x: -423.38895, y: -839.9531}
+    - - {x: -114.837, y: -839.9531}
+      - {x: -163.55573, y: -1007.0156}
+      - {x: -163.55573, y: -1331.8594}
+      - {x: -117.15694, y: -1503.5625}
+      - {x: -54.518578, y: -1503.5625}
+      - {x: -33.63912, y: -1487.3203}
+      - {x: -31.31918, y: -1468.7578}
+      - {x: -38.279, y: -1387.5469}
+      - {x: -26.679304, y: -1362.0234}
+      - {x: -24.359364, y: -1350.4219}
+      - {x: -24.359364, y: -1345.7812}
+      - {x: -24.359364, y: -1350.4219}
+      - {x: -31.31918, y: -1389.8672}
+      - {x: -31.31918, y: -1401.4688}
+      - {x: -26.679304, y: -1468.7578}
+      - {x: -26.679304, y: -1489.6406}
+      - {x: -19.719484, y: -1503.5625}
+      - {x: 138.03639, y: -1503.5625}
+      - {x: 189.07506, y: -1306.3359}
+      - {x: 189.07506, y: -839.9531}
+    - - {x: 569.5451, y: -839.9531}
+      - {x: 451.2282, y: -951.3281}
+      - {x: 451.2282, y: -1389.8672}
+      - {x: 497.627, y: -1503.5625}
+      - {x: 650.743, y: -1503.5625}
+      - {x: 743.5406, y: -1334.1797}
+      - {x: 799.2191, y: -1188}
+      - {x: 799.2191, y: -839.9531}
+    - - {x: 1063.6923, y: -946.6875}
+      - {x: 1063.6923, y: -1387.5469}
+      - {x: 1124.0106, y: -1503.5625}
+      - {x: 1165.7695, y: -1503.5625}
+      - {x: 1182.0092, y: -1496.6016}
+      - {x: 1191.289, y: -1485}
+      - {x: 1186.649, y: -1385.2266}
+      - {x: 1198.2487, y: -1355.0625}
+      - {x: 1200.5686, y: -1343.4609}
+      - {x: 1193.6088, y: -1399.1484}
+      - {x: 1193.6088, y: -1464.1172}
+      - {x: 1200.5686, y: -1503.5625}
+      - {x: 1228.408, y: -1503.5625}
+      - {x: 1302.646, y: -1501.2422}
+      - {x: 1411.6831, y: -1185.6797}
+      - {x: 1411.6831, y: -839.9531}
+      - {x: 1089.2115, y: -839.9531}
+      - {x: 1077.6118, y: -842.27344}
+    - - {x: -1072.9719, y: -48.72656}
+      - {x: -1267.8469, y: -48.72656}
+      - {x: -1332.8052, y: -69.609375}
+      - {x: -1390.8037, y: -238.9922}
+      - {x: -1390.8037, y: -554.5547}
+      - {x: -1353.6847, y: -710.0156}
+      - {x: -1198.2487, y: -710.0156}
+      - {x: -1177.3693, y: -693.77344}
+      - {x: -1068.3322, y: -531.35156}
+      - {x: -1035.8529, y: -401.4141}
+      - {x: -1035.8529, y: -102.09375}
+    - - {x: -778.33966, y: -48.72656}
+      - {x: -778.33966, y: -663.6094}
+      - {x: -718.0213, y: -703.0547}
+      - {x: -676.2623, y: -710.0156}
+      - {x: -650.743, y: -710.0156}
+      - {x: -643.7832, y: -689.1328}
+      - {x: -648.42303, y: -654.3281}
+      - {x: -639.1433, y: -661.28906}
+      - {x: -646.10315, y: -710.0156}
+      - {x: -483.70737, y: -710.0156}
+      - {x: -423.38895, y: -501.1875}
+      - {x: -423.38895, y: -48.72656}
+    - - {x: 189.07506, y: -67.28906}
+      - {x: 172.83548, y: -48.72656}
+      - {x: -15.079606, y: -48.72656}
+      - {x: -158.91585, y: -104.41406}
+      - {x: -165.87567, y: -176.34377}
+      - {x: -165.87567, y: -587.03906}
+      - {x: -114.837, y: -710.0156}
+      - {x: 49.878696, y: -710.0156}
+      - {x: 80.03791, y: -545.27344}
+      - {x: 161.2358, y: -554.5547}
+      - {x: 189.07506, y: -359.64844}
+    - - {x: 615.9439, y: -48.72656}
+      - {x: 483.70737, y: -95.13281}
+      - {x: 446.58835, y: -194.90623}
+      - {x: 446.58835, y: -510.46875}
+      - {x: 506.90677, y: -710.0156}
+      - {x: 557.94543, y: -710.0156}
+      - {x: 567.22516, y: -705.375}
+      - {x: 578.8249, y: -691.4531}
+      - {x: 578.8249, y: -661.28906}
+      - {x: 581.14484, y: -691.4531}
+      - {x: 592.7445, y: -710.0156}
+      - {x: 653.0629, y: -710.0156}
+      - {x: 801.53906, y: -556.875}
+      - {x: 801.53906, y: -48.72656}
+    - - {x: 1223.7681, y: -48.72656}
+      - {x: 1117.0508, y: -109.05469}
+      - {x: 1079.9318, y: -218.10938}
+      - {x: 1059.0524, y: -327.16406}
+      - {x: 1059.0524, y: -545.27344}
+      - {x: 1114.7308, y: -668.25}
+      - {x: 1133.2904, y: -710.0156}
+      - {x: 1307.2859, y: -710.0156}
+      - {x: 1411.6831, y: -415.3359}
+      - {x: 1411.6831, y: -74.25}
+      - {x: 1388.4838, y: -48.72656}
+    - - {x: -1295.6862, y: 744.8203}
+      - {x: -1388.4838, y: 638.08594}
+      - {x: -1388.4838, y: 197.22656}
+      - {x: -1351.3647, y: 81.21094}
+      - {x: -1295.6862, y: 81.21094}
+      - {x: -1251.6073, y: 88.171875}
+      - {x: -1240.0076, y: 81.21094}
+      - {x: -1175.0493, y: 81.21094}
+      - {x: -1084.5717, y: 271.47656}
+      - {x: -1035.8529, y: 382.85156}
+      - {x: -1035.8529, y: 744.8203}
+    - - {x: -776.0197, y: 744.8203}
+      - {x: -776.0197, y: 139.21875}
+      - {x: -713.38135, y: 81.21094}
+      - {x: -666.9826, y: 81.21094}
+      - {x: -643.7832, y: 92.8125}
+      - {x: -643.7832, y: 118.33594}
+      - {x: -643.7832, y: 85.85156}
+      - {x: -636.82336, y: 81.21094}
+      - {x: -534.74603, y: 81.21094}
+      - {x: -423.38895, y: 382.85156}
+      - {x: -423.38895, y: 744.8203}
+    - - {x: -165.87567, y: 744.8203}
+      - {x: -165.87567, y: 143.85938}
+      - {x: -98.59743, y: 81.21094}
+      - {x: -61.478394, y: 81.21094}
+      - {x: -47.55876, y: 83.53125}
+      - {x: -28.999245, y: 102.09375}
+      - {x: -40.598934, y: 192.58594}
+      - {x: -28.999245, y: 106.734375}
+      - {x: -26.679304, y: 85.85156}
+      - {x: -15.079606, y: 81.21094}
+      - {x: 131.07658, y: 81.21094}
+      - {x: 189.07506, y: 310.92188}
+      - {x: 189.07506, y: 744.8203}
+    - - {x: 736.58075, y: 744.8203}
+      - {x: 553.30554, y: 744.8203}
+      - {x: 488.3473, y: 735.53906}
+      - {x: 446.58835, y: 533.6719}
+      - {x: 446.58835, y: 297}
+      - {x: 511.54663, y: 81.21094}
+      - {x: 629.8635, y: 81.21094}
+      - {x: 653.0629, y: 95.13281}
+      - {x: 720.3412, y: 132.25781}
+      - {x: 801.53906, y: 359.64844}
+      - {x: 801.53906, y: 698.41406}
+    - - {x: 1404.7233, y: 723.9375}
+      - {x: 1374.5641, y: 744.8203}
+      - {x: 1246.9674, y: 744.8203}
+      - {x: 1091.5315, y: 693.77344}
+      - {x: 1059.0524, y: 549.91406}
+      - {x: 1059.0524, y: 317.8828}
+      - {x: 1068.3322, y: 273.79688}
+      - {x: 1112.4109, y: 88.171875}
+      - {x: 1126.3306, y: 81.21094}
+      - {x: 1251.6073, y: 81.21094}
+      - {x: 1277.1266, y: 95.13281}
+      - {x: 1372.2441, y: 241.3125}
+      - {x: 1414.003, y: 445.5}
+      - {x: 1414.003, y: 649.6875}
+    - - {x: -458.188, y: 1536.0469}
+      - {x: -773.69977, y: 1536.0469}
+      - {x: -773.69977, y: 872.4375}
+      - {x: -655.3829, y: 872.4375}
+      - {x: -643.7832, y: 893.3203}
+      - {x: -646.10315, y: 942.0469}
+      - {x: -639.1433, y: 879.3984}
+      - {x: -632.1835, y: 872.4375}
+      - {x: -595.06445, y: 872.4375}
+      - {x: -560.2654, y: 888.6797}
+      - {x: -444.2684, y: 1046.4609}
+      - {x: -423.38895, y: 1188}
+      - {x: -423.38895, y: 1529.0859}
+    - - {x: 179.7953, y: 1515.1641}
+      - {x: 131.07658, y: 1536.0469}
+      - {x: -10.439728, y: 1536.0469}
+      - {x: -121.79682, y: 1489.6406}
+      - {x: -161.2358, y: 1273.8516}
+      - {x: -161.2358, y: 1206.5625}
+      - {x: -114.837, y: 1215.8438}
+      - {x: -105.55724, y: 1218.1641}
+      - {x: -144.99622, y: 1065.0234}
+      - {x: -103.237305, y: 872.4375}
+      - {x: -54.518578, y: 872.4375}
+      - {x: -42.91888, y: 879.3984}
+      - {x: -31.31918, y: 893.3203}
+      - {x: -33.63912, y: 935.08594}
+      - {x: -24.359364, y: 923.4844}
+      - {x: -31.31918, y: 884.03906}
+      - {x: -26.679304, y: 872.4375}
+      - {x: 47.55876, y: 872.4375}
+      - {x: 131.07658, y: 976.8515}
+      - {x: 189.07506, y: 1181.0391}
+      - {x: 189.07506, y: 1480.3594}
+    - - {x: 799.2191, y: 1512.8438}
+      - {x: 755.14026, y: 1536.0469}
+      - {x: 636.82336, y: 1536.0469}
+      - {x: 525.46625, y: 1501.2422}
+      - {x: 476.74756, y: 1433.9531}
+      - {x: 448.90823, y: 1308.6562}
+      - {x: 448.90823, y: 1141.5938}
+      - {x: 513.8666, y: 872.4375}
+      - {x: 664.66266, y: 872.4375}
+      - {x: 750.5004, y: 1039.5}
+      - {x: 787.61945, y: 1109.1094}
+      - {x: 799.2191, y: 1248.3281}
+    - - {x: 1362.9644, y: 1536.0469}
+      - {x: 1061.3723, y: 1536.0469}
+      - {x: 1061.3723, y: 918.84375}
+      - {x: 1110.0911, y: 881.71875}
+      - {x: 1144.8901, y: 872.4375}
+      - {x: 1184.3291, y: 872.4375}
+      - {x: 1191.289, y: 888.6797}
+      - {x: 1188.969, y: 946.6875}
+      - {x: 1195.9287, y: 891}
+      - {x: 1198.2487, y: 877.0781}
+      - {x: 1200.5686, y: 872.4375}
+      - {x: 1265.527, y: 872.4375}
+      - {x: 1365.2843, y: 1053.4219}
+      - {x: 1411.6831, y: 1255.2891}
+      - {x: 1411.6831, y: 1522.125}
+    - - {x: -1084.5717, y: 1536.0469}
+      - {x: -1242.3275, y: 1536.0469}
+      - {x: -1383.8439, y: 1433.9531}
+      - {x: -1383.8439, y: 928.125}
+      - {x: -1316.5657, y: 874.7578}
+      - {x: -1258.5671, y: 874.7578}
+      - {x: -1256.2472, y: 921.16406}
+      - {x: -1263.207, y: 981.4922}
+      - {x: -1246.9674, y: 1027.8984}
+      - {x: -1246.9674, y: 1032.5391}
+      - {x: -1246.9674, y: 1018.6172}
+      - {x: -1249.2874, y: 1016.2969}
+      - {x: -1253.9272, y: 974.53125}
+      - {x: -1249.2874, y: 881.71875}
+      - {x: -1242.3275, y: 874.7578}
+      - {x: -1158.8097, y: 874.7578}
+      - {x: -1054.4125, y: 1030.2188}
+      - {x: -1035.8529, y: 1150.875}
+      - {x: -1035.8529, y: 1522.125}
+    - - {x: -1267.8469, y: 2327.2734}
+      - {x: -1381.5239, y: 2259.9844}
+      - {x: -1381.5239, y: 1723.9922}
+      - {x: -1335.1251, y: 1665.9844}
+      - {x: -1277.1266, y: 1665.9844}
+      - {x: -1256.2472, y: 1682.2266}
+      - {x: -1258.5671, y: 1754.1562}
+      - {x: -1246.9674, y: 1819.125}
+      - {x: -1246.9674, y: 1823.7656}
+      - {x: -1246.9674, y: 1819.125}
+      - {x: -1249.2874, y: 1802.8828}
+      - {x: -1253.9272, y: 1763.4376}
+      - {x: -1249.2874, y: 1675.2656}
+      - {x: -1246.9674, y: 1665.9844}
+      - {x: -1205.2085, y: 1665.9844}
+      - {x: -1172.7294, y: 1677.5859}
+      - {x: -1035.8529, y: 1793.6016}
+      - {x: -1035.8529, y: 2327.2734}
+    - - {x: -423.38895, y: 2041.875}
+      - {x: -423.38895, y: 2327.2734}
+      - {x: -769.05994, y: 2327.2734}
+      - {x: -769.05994, y: 1737.914}
+      - {x: -706.4216, y: 1668.3047}
+      - {x: -690.18195, y: 1665.9844}
+      - {x: -664.66266, y: 1665.9844}
+      - {x: -639.1433, y: 1684.5468}
+      - {x: -648.42303, y: 1782}
+      - {x: -639.1433, y: 1807.5234}
+      - {x: -634.5034, y: 1821.4452}
+      - {x: -634.5034, y: 1826.086}
+      - {x: -634.5034, y: 1821.4452}
+      - {x: -639.1433, y: 1788.9608}
+      - {x: -639.1433, y: 1763.4376}
+      - {x: -636.82336, y: 1751.836}
+      - {x: -632.1835, y: 1730.9532}
+      - {x: -639.1433, y: 1691.5078}
+      - {x: -634.5034, y: 1672.9453}
+      - {x: -625.2237, y: 1665.9844}
+      - {x: -606.6642, y: 1665.9844}
+      - {x: -585.7847, y: 1668.3047}
+      - {x: -571.86505, y: 1684.5468}
+      - {x: -474.4276, y: 1828.4062}
+    - - {x: 33.63912, y: 2327.2734}
+      - {x: -84.67779, y: 2301.75}
+      - {x: -156.59592, y: 2250.7031}
+      - {x: -156.59592, y: 1737.914}
+      - {x: -96.27749, y: 1684.5468}
+      - {x: -84.67779, y: 1668.3047}
+      - {x: -80.03791, y: 1665.9844}
+      - {x: 42.91888, y: 1665.9844}
+      - {x: 52.198635, y: 1672.9453}
+      - {x: 189.07506, y: 2000.1094}
+      - {x: 189.07506, y: 2269.2656}
+      - {x: 170.51556, y: 2327.2734}
+    - - {x: 453.54816, y: 2327.2734}
+      - {x: 453.54816, y: 1710.0704}
+      - {x: 506.90677, y: 1665.9844}
+      - {x: 560.2654, y: 1665.9844}
+      - {x: 581.14484, y: 1672.9453}
+      - {x: 578.8249, y: 1728.6328}
+      - {x: 583.4648, y: 1703.1094}
+      - {x: 585.7847, y: 1675.2656}
+      - {x: 590.42456, y: 1665.9844}
+      - {x: 729.621, y: 1665.9844}
+      - {x: 799.2191, y: 1925.8594}
+      - {x: 799.2191, y: 2327.2734}
+    - - {x: 1066.0122, y: 2185.7344}
+      - {x: 1066.0122, y: 1830.7266}
+      - {x: 1121.6907, y: 1665.9844}
+      - {x: 1168.0895, y: 1665.9844}
+      - {x: 1179.6892, y: 1670.625}
+      - {x: 1191.289, y: 1682.2266}
+      - {x: 1186.649, y: 1779.6796}
+      - {x: 1198.2487, y: 1812.164}
+      - {x: 1200.5686, y: 1823.7656}
+      - {x: 1195.9287, y: 1788.9608}
+      - {x: 1195.9287, y: 1763.4376}
+      - {x: 1193.6088, y: 1672.9453}
+      - {x: 1195.9287, y: 1665.9844}
+      - {x: 1311.9258, y: 1665.9844}
+      - {x: 1411.6831, y: 1761.1172}
+      - {x: 1411.6831, y: 2327.2734}
+      - {x: 1107.7711, y: 2327.2734}
+      - {x: 1098.4913, y: 2324.9531}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
